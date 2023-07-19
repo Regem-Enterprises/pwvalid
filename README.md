@@ -82,12 +82,12 @@ It Checks that email is Spam or not. it returns a Bool response. (True/False)
 ---
 
 ### Code Examples
-`
+<code>
 import pwvalid 
 email = input('Enter Email:')
 result = pwvalid.isSpam(email)
 print(result)
-`
+</code>code>
 
 
 
