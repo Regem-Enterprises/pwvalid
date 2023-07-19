@@ -87,7 +87,7 @@ import pwvalid
 email = input('Enter Email:')
 result = pwvalid.isSpam(email)
 print(result)
-</code>code>
+</code>
 
 
 
